@@ -1,0 +1,1921 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DT Core Plugin\n"
+"POT-Creation-Date: 2014-11-28 18:47+0530\n"
+"PO-Revision-Date: 2014-11-28 18:47+0530\n"
+"Last-Translator: DesignThemes <ram@iamdesigning.com>\n"
+"Language-Team: DesignThemes <ram@iamdesigning.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: E:\\wamp\\www\\trendy-travel\\wp-content\\plugins"
+"\\designthemes-core-features\n"
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-gallery-post-type.php:65
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-gallery-post-type.php:77
+msgid "Galleries"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-gallery-post-type.php:66
+msgid "All Galleries"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-gallery-post-type.php:67
+msgid "Gallery"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-gallery-post-type.php:68
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-hotels-post-type.php:68
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-places-post-type.php:68
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-rooms-post-type.php:68
+msgid "Add New"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-gallery-post-type.php:69
+msgid "Add New Gallery"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-gallery-post-type.php:70
+msgid "Edit Gallery"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-gallery-post-type.php:71
+msgid "New Gallery"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-gallery-post-type.php:72
+msgid "View Gallery"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-gallery-post-type.php:73
+msgid "Search Galleries"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-gallery-post-type.php:74
+msgid "No Galleries found"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-gallery-post-type.php:75
+msgid "No Galleries found in Trash"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-gallery-post-type.php:76
+msgid "Parent Gallery:"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-gallery-post-type.php:124
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-hotels-post-type.php:150
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-places-post-type.php:125
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-rooms-post-type.php:114
+msgid "Default Options"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-hotels-post-type.php:65
+msgid "Hotels"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-hotels-post-type.php:66
+msgid "All Hotels"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-hotels-post-type.php:67
+msgid "Hotel"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-hotels-post-type.php:69
+msgid "Add New Hotel"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-hotels-post-type.php:70
+msgid "Edit Hotel"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-hotels-post-type.php:71
+msgid "New Hotel"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-hotels-post-type.php:72
+msgid "View Hotel"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-hotels-post-type.php:73
+msgid "Search Hotels"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-hotels-post-type.php:74
+msgid "No Hotels found"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-hotels-post-type.php:75
+msgid "No Hotels found in Trash"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-hotels-post-type.php:76
+msgid "Parent Hotel:"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-hotels-post-type.php:77
+msgid "Hotels Booking"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-hotels-post-type.php:124
+msgid "Search Locations"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-hotels-post-type.php:125
+msgid "All Locations"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-hotels-post-type.php:126
+msgid "Parent Location"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-hotels-post-type.php:127
+msgid "Parent Location:"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-hotels-post-type.php:128
+msgid "Edit Location"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-hotels-post-type.php:129
+msgid "Update Location"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-hotels-post-type.php:130
+msgid "Add New Location"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-hotels-post-type.php:131
+msgid "New Location Name"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-hotels-post-type.php:132
+msgid "Locations"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-places-post-type.php:65
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-places-post-type.php:77
+msgid "Places"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-places-post-type.php:66
+msgid "All Places"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-places-post-type.php:67
+msgid "Place"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-places-post-type.php:69
+msgid "Add New Place"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-places-post-type.php:70
+msgid "Edit Place"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-places-post-type.php:71
+msgid "New Place"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-places-post-type.php:72
+msgid "View Place"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-places-post-type.php:73
+msgid "Search Places"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-places-post-type.php:74
+msgid "No Places found"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-places-post-type.php:75
+msgid "No Places found in Trash"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-places-post-type.php:76
+msgid "Parent Place:"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-rooms-post-type.php:65
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-rooms-post-type.php:77
+msgid "Rooms"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-rooms-post-type.php:66
+msgid "All Rooms"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-rooms-post-type.php:67
+msgid "Room"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-rooms-post-type.php:69
+msgid "Add New Room"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-rooms-post-type.php:70
+msgid "Edit Room"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-rooms-post-type.php:71
+msgid "New Room"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-rooms-post-type.php:72
+msgid "View Room"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-rooms-post-type.php:73
+msgid "Search Rooms"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-rooms-post-type.php:74
+msgid "No Rooms found"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-rooms-post-type.php:75
+msgid "No Rooms found in Trash"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-rooms-post-type.php:76
+msgid "Parent Room:"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/dt-rooms-post-type.php:157
+msgid "No Image"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:9
+msgid "Organizer"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:14
+msgid "You can given your organizer name"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:18
+msgid "Location"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:23
+msgid "You can given your client location"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:27
+msgid "Website"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:32
+msgid "You can given your client's project url"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:38
+msgid "Title Background"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:43
+msgid "Upload"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:44
+msgid "Remove"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:46
+msgid "Upload an image for the sub title background"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:55
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:151
+msgid "Background Repeat"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:59
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:72
+msgid "Select"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:64
+msgid "Select how would you like to repeat the background image "
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:68
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:157
+msgid "Background Position"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:77
+msgid "Select how would you like to position the background"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:81
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:130
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:381
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:508
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:854
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:940
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1038
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1069
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1101
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1133
+msgid "Background Color"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:84
+msgid "Select background color for sub title section e.g. #f2d607"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:97
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:47
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_place_default_metabox.php:47
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_room_default_metabox.php:8
+msgid "Layout"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:117
+msgid "You can choose between a left, right or full width."
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:126
+msgid "Show Related Projects"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:136
+msgid "Would you like to show the related projects at the bottom"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:144
+msgid "Show Social Share"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:153
+msgid "Would you like to show the social share at the bottom"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:161
+msgid "Allow Comments"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:173
+msgid "YES! to allow comments on this page."
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:181
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:263
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_place_default_metabox.php:261
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_room_default_metabox.php:150
+msgid "Images"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:185
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:267
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_place_default_metabox.php:265
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_room_default_metabox.php:154
+msgid "Click Here to Add Images"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_gallery_default_metabox.php:186
+msgid "Click Here to Add Video"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:9
+msgid "Address of Hotel"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:15
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_place_default_metabox.php:15
+msgid "Get Map Values"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:18
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_place_default_metabox.php:18
+msgid "Put address and click button to get following values."
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:26
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_place_default_metabox.php:26
+msgid "Latitude"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:31
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:40
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_place_default_metabox.php:31
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_place_default_metabox.php:40
+msgid ""
+"Put the location latitude value. ( Use finder: http://ctrlq.org/maps/"
+"address/ )"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:35
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_place_default_metabox.php:35
+msgid "Longitude"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:64
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_place_default_metabox.php:64
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_room_default_metabox.php:25
+msgid "You can choose between a left, right or no sidebar layout."
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:83
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_place_default_metabox.php:83
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_room_default_metabox.php:44
+msgid "Disable Every Where Sidebar Left"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:90
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:127
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_place_default_metabox.php:90
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_place_default_metabox.php:127
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_room_default_metabox.php:51
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_room_default_metabox.php:88
+msgid "Yes! to hide \"Every Where Sidebar\" on this page."
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:96
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_place_default_metabox.php:96
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_room_default_metabox.php:57
+msgid "Choose Widget Area - Left Sidebar"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:120
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_place_default_metabox.php:120
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_room_default_metabox.php:81
+msgid "Disable Every Where Sidebar Right"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:133
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_place_default_metabox.php:133
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_room_default_metabox.php:94
+msgid "Choose Widget Area - Right Sidebar"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:159
+msgid "Starting Price"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:164
+msgid "Put the value of starting pricing."
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:168
+msgid "Special Offer"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:172
+msgid "10% Special Offer"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:173
+msgid "Put the special offer value."
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:181
+msgid "For Whome"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:185
+msgid "Only For Families"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:186
+msgid "Put the text of specially for whome."
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:190
+msgid "Show Book Now"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:200
+msgid "Would you like to show the book now section"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:208
+msgid "Show Ratings"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:218
+msgid "Would you like to show the rating section"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:222
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_place_default_metabox.php:225
+msgid "Show Reviews"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:232
+msgid "Would you like to show the reviews section"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:239
+msgid "Choose Rooms"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_hotel_default_metabox.php:256
+msgid "You can choose room under a hotel in the booking page."
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_place_default_metabox.php:9
+msgid "Address of Place"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_place_default_metabox.php:159
+msgid "Show Hotels & Dest"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_place_default_metabox.php:169
+msgid "Would you like to show the hotels list & popular destinations"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_place_default_metabox.php:177
+msgid "Choose Hotels"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_place_default_metabox.php:193
+msgid "You can choose hotels to show in this place page."
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_place_default_metabox.php:201
+msgid "Choose Destinations"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_place_default_metabox.php:217
+msgid "You can choose destinations to show in this place page."
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_place_default_metabox.php:235
+msgid "Would you like to show the reviews & ratings"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_place_default_metabox.php:243
+msgid "Show Recommends"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_place_default_metabox.php:253
+msgid "Would you like to show the recommendations"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_room_default_metabox.php:120
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_rooms.php:53
+msgid "Occupancy"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_room_default_metabox.php:124
+msgid "Person(s)"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_room_default_metabox.php:125
+msgid "Put no.of persons occupancy for this room."
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_room_default_metabox.php:129
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_rooms.php:54
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1467
+msgid "Price"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_room_default_metabox.php:134
+msgid "Put price of this room."
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_room_default_metabox.php:138
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_rooms.php:55
+msgid "Room Size"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/metaboxes/dt_room_default_metabox.php:143
+msgid "Put size of this room."
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_galleries.php:30
+msgid "Previous"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_galleries.php:35
+msgid "Next"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_hotels.php:19
+msgid "Here we are"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_hotels.php:44
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_places.php:42
+msgid "Average "
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_hotels.php:44
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_places.php:42
+msgid " of "
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_hotels.php:44
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_places.php:42
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_places.php:74
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_places.php:104
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/hotel-archive-layout.php:37
+msgid " Ratings"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_hotels.php:47
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_places.php:119
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_rooms.php:46
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/gallery-single-layout-one.php:35
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/gallery-single-layout-two.php:37
+msgid "Pages:"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_hotels.php:48
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_places.php:120
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_rooms.php:47
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/gallery-single-layout-one.php:36
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/gallery-single-layout-two.php:38
+msgid "Edit"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_hotels.php:62
+msgid "&nbsp;People have Rated"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_hotels.php:71
+msgid "Stars"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_hotels.php:87
+msgid "Based on Ratings from"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_hotels.php:87
+msgid "People"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_hotels.php:88
+msgid "Write a Review"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_places.php:18
+msgid "Map of "
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_places.php:62
+msgid "Hotels to Stay"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_places.php:75
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_places.php:105
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_places.php:156
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/hotel-archive-layout.php:39
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/place-archive-layout.php:37
+msgid "View on Map"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_places.php:82
+msgid "No Hotels Found."
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_places.php:83
+msgid "Choose hotels from back-end to show in this section."
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_places.php:92
+msgid "Popular Destinations"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_places.php:112
+msgid "No Destinations Found."
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_places.php:113
+msgid "Choose destinations from back-end to show in this section."
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_places.php:125
+msgid "Write a Review about "
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_places.php:130
+msgid "Our Recommendations"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_places.php:157
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/place-archive-layout.php:38
+msgid "View details"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/single-dt_rooms.php:51
+msgid "Room Information"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/taxonomy-gallery_entries.php:9
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/taxonomy-hotel_entries.php:9
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/taxonomy-place_entries.php:9
+msgid "Category Archives of : "
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/gallery-archive-layout.php:77
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/hotel-archive-layout.php:86
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/place-archive-layout.php:52
+msgid "Nothing Found."
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/gallery-archive-layout.php:78
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/hotel-archive-layout.php:87
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/place-archive-layout.php:53
+msgid "Apologies, but no results were found for the requested archive."
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/gallery-single-layout-one.php:37
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/gallery-single-layout-two.php:39
+msgid "Posted In:"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/gallery-single-layout-one.php:41
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/gallery-single-layout-two.php:43
+msgid "Other Details"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/gallery-single-layout-one.php:43
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/gallery-single-layout-two.php:45
+msgid "Organizer : "
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/gallery-single-layout-one.php:44
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/gallery-single-layout-two.php:46
+msgid "Location : "
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/gallery-single-layout-one.php:45
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/gallery-single-layout-two.php:47
+msgid "Website : "
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/gallery-single-layout-one.php:46
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/gallery-single-layout-two.php:48
+msgid "Submitted On : "
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/hotel-archive-layout.php:42
+msgid "Book Now"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/hotel-archive-layout.php:44
+msgid "View Details"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/hotel-archive-layout.php:49
+msgid "Starts From"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/hotel-archive-layout.php:66
+msgid "Name (required)"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/hotel-archive-layout.php:67
+msgid "Email (required)"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/hotel-archive-layout.php:68
+msgid "Date Arrival (required)"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/hotel-archive-layout.php:69
+msgid "Subject"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/hotel-archive-layout.php:70
+msgid "Message"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/hotel-archive-layout.php:71
+msgid "Send"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/hotel-archive-layout.php:73
+msgid "Thanks for Booking us, We will call back to you soon."
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/custom-post-types/templates/inc/hotel-archive-layout.php:74
+msgid "Sorry your message not sent, Try again Later."
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/config.php:11
+msgid "Wordpress Editor"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/config.php:58
+msgid "Permanently delete this module?"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/config.php:59
+msgid "Permanently delete all modules?"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/config.php:60
+msgid "Permanently delete this layout?"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/config.php:61
+msgid "Layout Name"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/config.php:62
+msgid "Create"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/config.php:63
+msgid "Cancel"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/config.php:64
+msgid "* new layout will appear under the Sample Layout tab after page update"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/config.php:65
+msgid "Yes"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/config.php:66
+msgid "No"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/config.php:67
+msgid "Saving..."
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/config.php:68
+msgid "Layout Saved."
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/config.php:69
+msgid "Custom CSS Saved."
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/config.php:70
+msgid "Column Options Saved."
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/config.php:71
+msgid "Section Options Saved."
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/functions.php:364
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/functions.php:490
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/functions.php:544
+msgid "Settings"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/functions.php:438
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/functions.php:498
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/functions.php:551
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/functions.php:617
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/functions.php:704
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/functions.php:761
+msgid "Save Changes"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/functions.php:584
+msgid "Additional Column Options"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/functions.php:641
+msgid "Fullwidth Section Options"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/functions.php:726
+msgid "Add Modules"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/functions.php:757
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/metabox.php:20
+msgid "Add Custom CSS"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/metabox.php:13
+msgid "Clear All"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/metabox.php:16
+msgid "Create Sample Layout"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:61
+msgid "1 Column"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:65
+msgid "1/2 Column"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:69
+msgid "1/3 Column"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:73
+msgid "1/4 Column"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:77
+msgid "1/5 Column"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:81
+msgid "1/6 Column"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:85
+msgid "2/3 Column"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:89
+msgid "2/5 Column"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:93
+msgid "2/6 Column"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:97
+msgid "3/4 Column"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:101
+msgid "3/5 Column"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:105
+msgid "3/6 Column"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:109
+msgid "4/5 Column"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:113
+msgid "4/6 Column"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:117
+msgid "5/6 Column"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:121
+msgid "Resizable Column"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:126
+msgid "Fullwidth Section"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:135
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:210
+msgid "Background Image"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:140
+msgid "Background Opacity"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:145
+msgid "Parallax Effect"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:163
+msgid "Padding Top"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:168
+msgid "Padding Bottom"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:173
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:385
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:426
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:472
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:513
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:944
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1042
+msgid "Text Color"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:178
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:225
+msgid "CSS Class"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:186
+msgid "Fullwidth Section Video"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:190
+msgid "MP4"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:195
+msgid "WEBM"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:200
+msgid "OGV"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:205
+msgid "Poster Image"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:215
+msgid "Padding Top (in px)"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:220
+msgid "Padding Bottom (in px)"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:238
+msgid "Add Any Content Here"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:243
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:256
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:286
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:327
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:440
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:482
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:548
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:584
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:614
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:665
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:727
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:749
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:771
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:819
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:859
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:904
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:948
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:962
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:986
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1046
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1160
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1174
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1188
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1214
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1658
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1678
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1698
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1718
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1738
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1758
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1818
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1832
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1880
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1914
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1952
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1989
+msgid "Content"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:251
+msgid "Accordion Framed"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:281
+msgid "Accordion Default"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:311
+msgid "Animation"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:316
+msgid "Choose Effect"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:322
+msgid "Delay"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:336
+msgid "Button"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:341
+msgid "Size"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:347
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:814
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:879
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1027
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1899
+msgid "Link"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:352
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:408
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:454
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:496
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:603
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:654
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:696
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:833
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:873
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:918
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1010
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1946
+msgid "Type"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:358
+msgid "Icon Style"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:364
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:889
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1865
+msgid "Icon"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:369
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:894
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1032
+msgid "Target"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:375
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:420
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:502
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:538
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:573
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:934
+msgid "Variation"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:389
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:544
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:579
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:900
+msgid "Class"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:394
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:518
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:712
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1084
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1116
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1148
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1933
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1976
+msgid "Text"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:403
+msgid "Blockquote"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:414
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:460
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1652
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1672
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1692
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1712
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1732
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1752
+msgid "Align"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:430
+msgid "Cite"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:435
+msgid "Role"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:449
+msgid "Pullquote"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:466
+msgid "Show Icon"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:477
+msgid "Cite Name"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:491
+msgid "Dropcap"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:492
+msgid "Use this module to add dropcap"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:527
+msgid "Unordered Lists"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:532
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:567
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:608
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:659
+msgid "Style"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:562
+msgid "Ordered Lists"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:598
+msgid "Pricing Table"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:649
+msgid "Pricing Table Two"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:691
+msgid "Progress Bar"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:702
+msgid "Color"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:707
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1870
+msgid "Value"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:721
+msgid "Tabs - Horizontal"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:744
+msgid "Tabs Vertical"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:766
+msgid "Tabs Vertical Icon"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:788
+msgid "Icon Box"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:789
+msgid "Use this module to add icon box"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:793
+msgid "Types"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:799
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:929
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1782
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1928
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1966
+msgid "Fontawesome Icon"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:804
+msgid "Custom Icon"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:809
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:849
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:924
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1064
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1096
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1128
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1772
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1846
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1875
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1894
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1971
+msgid "Title"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:828
+msgid "Icon Box Colored"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:839
+msgid "Fontawesome Icons"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:844
+msgid "Custom Icons"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:868
+msgid "Callout Box"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:884
+msgid "Button Label"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:913
+msgid "Titled Box"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:957
+msgid "Toggle Default"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:981
+msgid "Toggle Framed"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1005
+msgid "Tooltip"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1016
+msgid "Tooltip Text"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1021
+msgid "Position"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1059
+msgid "Donut Chart Small"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1060
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1092
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1124
+msgid "Use this module to add donutchart"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1074
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1106
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1138
+msgid "Foreground Color"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1079
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1111
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1143
+msgid "Percent"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1091
+msgid "Donut Chart Medium"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1123
+msgid "Donut Chart Large"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1155
+msgid "Team"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1169
+msgid "Testimonial"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1170
+msgid "Use this module to add testimonial"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1183
+msgid "Testimonial Carousel"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1184
+msgid "Use this module to add testimonial carousel"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1203
+msgid "Client Testimonial"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1204
+msgid "Use this module to add client testimonial"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1208
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1326
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1356
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1406
+msgid "Carousel"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1227
+msgid "Recent Posts"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1228
+msgid "Use this module to display recent posts"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1232
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1302
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1362
+msgid "Excerpt Length"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1237
+msgid "Show Meta"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1243
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1267
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1297
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1321
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1351
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1375
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1420
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1439
+msgid "Limit"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1248
+msgid "Post Categories"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1253
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1277
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1307
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1337
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1425
+msgid "Columns"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1262
+msgid "Recent Gallery Items"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1263
+msgid "Use this module to add recent gallery items"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1272
+msgid "Portfolio Categories"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1283
+msgid "Show Filter"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1292
+msgid "Upcoming Events"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1293
+msgid "Use this module to list upcoming events"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1316
+msgid "Recent Packages"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1317
+msgid "Use this module to list packages"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1332
+msgid "Package Categories"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1346
+msgid "Recent Tour Packages"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1347
+msgid "Use this module to list tour packages"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1370
+msgid "Latest Hotel Reviews"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1371
+msgid "Use this module to list hotel reviews"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1383
+msgid "Best Destination Place"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1384
+msgid "Use this module to add best destination place"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1388
+msgid "Place ID"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1396
+msgid "Places Carousel"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1397
+msgid "Use this module to add places carousel"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1401
+msgid "Place IDs"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1415
+msgid "Recommended Places"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1416
+msgid "Use this module for recommended places"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1434
+msgid "Timeline Blog Posts"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1435
+msgid "Use this module to list timeline blog posts"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1447
+msgid "Hotel Room"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1448
+msgid "Use this module to add hotel room"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1452
+msgid "Room Type"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1457
+msgid "Persons"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1462
+msgid "Facilities"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1472
+msgid "Available"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1484
+msgid "Clear"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1485
+msgid "Add this module to add space between contents"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1491
+msgid "Bordered Horizontal Rule"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1492
+msgid "Use this module to add bordered horizontal rule"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1498
+msgid "Horizontal Rule"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1499
+msgid "Use this module to add horizontal rule"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1505
+msgid "Horizontal Rule Medium"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1506
+msgid "Use this module to add medium horizontal rule"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1512
+msgid "Horizontal Rule Large"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1513
+msgid "Use this module to add large horizontal rule"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1519
+msgid "Horizontal Rule With Top Link"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1520
+msgid "Use this module to add horizontal rule with top link"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1526
+msgid "Whitespace"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1527
+msgid "Use this module to add whitespace"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1533
+msgid "Whitespace Small"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1534
+msgid "Use this module to add small whitespace"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1540
+msgid "Whitespace Medium"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1541
+msgid "Use this module to add medium whitespace"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1547
+msgid "Whitespace Large"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1548
+msgid "Use this module to add large whitespace"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1554
+msgid "Address"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1555
+msgid "Use this module to add address"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1559
+msgid "Line 1"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1564
+msgid "Line 2"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1569
+msgid "Line 3"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1574
+msgid "Line 4"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1582
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1904
+msgid "Phone"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1583
+msgid "Use this module to add phone"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1587
+msgid "Phone No"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1595
+msgid "Mobile"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1596
+msgid "Use this module to add mobile"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1600
+msgid "Mobile No"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1608
+msgid "Fax"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1609
+msgid "Use this module to add fax"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1613
+msgid "Fax No"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1621
+msgid "Email"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1622
+msgid "Use this module to add email"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1626
+msgid "Mail ID"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1634
+msgid "Web"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1635
+msgid "Use this module to add website"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1639
+msgid "URL"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1647
+msgid "H1"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1667
+msgid "H2"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1687
+msgid "H3"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1707
+msgid "H4"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1727
+msgid "H5"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1747
+msgid "H6"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1767
+msgid "Title with Icon"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1777
+msgid "Sub Title"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1790
+msgid "Contact Form"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1791
+msgid "Use this module to display contact form"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1795
+msgid "Recipient Email"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1800
+msgid "Success Message"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1805
+msgid "Error Message"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1813
+msgid "Social Profile"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1814
+msgid "Use this module to add social icons"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1827
+msgid "Welcome Text"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1828
+msgid "Use this module to add welcome text"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1841
+msgid "Map Marker"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1842
+msgid "Use this module to use map marker"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1851
+msgid "Icon Color"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1860
+msgid "Counting Number"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1861
+msgid "Use this module to add number count"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1889
+msgid "Support Section"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1890
+msgid "Use this module to add support section"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1909
+msgid "Image"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1923
+msgid "Feature Icon"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1924
+msgid "Use this module to add feature icon"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1941
+msgid "Intro Text"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1942
+msgid "Use this module to add introduction text"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1961
+msgid "Theme Icon Box"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1962
+msgid "Use this module to add theme icon box"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1984
+msgid "Image Map & Pointers"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/modules.php:1985
+msgid "Use this module to add image map & pointers"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/pagebuilder.php:69
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/register-page-builder.php:118
+msgid " Page Builder"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/page-builder/pagebuilder.php:234
+msgid "Enable page builder"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/shortcodes/register-shortcodes.php:230
+msgid "File size should be less than 800 KB "
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/shortcodes/register-shortcodes.php:233
+msgid "Please upload image only ( png / jpeg ) "
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/shortcodes/shortcodes.php:704
+msgid "Purchase Now"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/shortcodes/shortcodes.php:992
+msgid "top"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/shortcodes/shortcodes.php:1211
+msgid "Heading"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/shortcodes/shortcodes.php:1215
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/shortcodes/shortcodes.php:1261
+msgid "Buy Now"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/shortcodes/shortcodes.php:1411
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/shortcodes/shortcodes.php:1412
+msgid "Please specify image url"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/shortcodes/shortcodes.php:1441
+msgid "im available here"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/shortcodes/shortcodes.php:1789
+msgid "There is no portfolio item with id :"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/shortcodes/shortcodes.php:1794
+msgid "Please give portfolio post id"
+msgstr ""
+
+#: E:\wamp\www\trendy-travel\wp-content\plugins\designthemes-core-features/shortcodes/shortcodes.php:1884
+msgid "No portfolios in given category"
+msgstr ""
